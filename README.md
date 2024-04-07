@@ -1,4 +1,4 @@
-# Flask ToDo CRUD Application
+# Flask Todo CRUD Application
 
 This is a simple CRUD (Create, Read, Update, Delete) application built using Flask, HTML, and CSS. It allows users to manage their to-do list by adding, viewing, updating, and deleting tasks.
 
